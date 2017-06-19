@@ -9,7 +9,7 @@ namespace first_program
     class Program
     {
         static void Main(string[] args)
-        {
+        {// hi
             Console.WriteLine("hello world");
             Console.ReadKey();
         }
